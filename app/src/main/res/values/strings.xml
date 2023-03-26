@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="imageTODO">TODO</string>
+
+    <string name="home">Home</string>
+    <string name="searchHintTv">Titles, authors, or topics</string>
+    <string name="categories">Categories</string>
+    <string name="trendingBook">Trending Books</string>
+    <string name="topAuthor">Top Authors</string>
+
+    <string name="motivation">Motivation &amp; Inspiration</string>
+</resources>
